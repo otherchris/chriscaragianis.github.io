@@ -190,13 +190,13 @@ body {
 
 /* links */
 a {
-  color: #b46a7b;
+  color: #6ab47b;
 }
 
 /* green header */
 header {
-  background-color: #b46a7b;
-  border-color: #9a596b;
+  background-color: #6ab47b;
+  border-color: #599a6b;
 }
 
 /* logo text */
@@ -206,7 +206,7 @@ h1, h2 {
 
 /* nav background on mobile devices */
 nav {
-  background-color: #9a596b;
+  background-color: #599a6b;
 }
 
 /* nav link */
@@ -216,7 +216,7 @@ nav a, nav a:visited {
 
 /* selected nav link  */
 nav a.selected, nav a:hover {
-  color: #67323f;
+  color: #32673f;
 }
 
 
